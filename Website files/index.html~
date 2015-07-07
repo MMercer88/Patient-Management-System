@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mike Mercer" >
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Honor Box Chiropractric</title>
+
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="cover.css" rel="stylesheet">
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+		
+	
+<embed src="03_Track_03.mp3" Autostart="true" loop="false" hidden="true">
+
+  </head>
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+             <img  style="display: block; border-radius: 0px;" title="" alt="missing" src="HB.jpg" >
+              <ul class="nav masthead-nav">
+                <li class="active"><a href="index.html">Home</a></li>
+                <li><a href="newpatient.html">New Patient</a></li>
+                <li><a href="signin.php">Sign in</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="signin.php?logout=1">Logout</a></li>
+              </ul>
+            </div>
+          </div>
+
+			 <img  style="display: block; border-radius: 0px;" title="" alt="missing" src="Portrait.jpg" >
+			<p><div id="element29" style="width: 142px; height: 16px;"><div style="font-size: 12px; line-height: 1px;">
+			<font face="'MS Sans Serif', sans-serif" color="#999999" class="size11 MSSansSerif11">Dr. Reed S. Shiraki<br>
+			</font></div>
+			</div></p>
+			
+			
+          <div class="inner cover">
+            <p class="lead">
+            <div style="font-size: 20px; line-height: 10px;"><font face="'Microsoft Sans Serif', sans-serif" color="#000000" class="size16 MicrosoftSansSerif16">Aloha!<br></font></div>
+            </p>
+           
+           
+           	<p>
+            <div style="font-size: 16px; line-height: 20px;"><font face="'Microsoft Sans Serif', sans-serif" color="#FFFFFF" class="size11 MicrosoftSansSerif11">If you are looking for a chiropractor,  I hope the information on this website<br> about my practice may be helpful
+          	</p>
+          	
+          	<p>
+         		<div style="font-size: 16px; line-height: 20px;"><font face="'Microsoft Sans Serif', sans-serif" color="#FFFFFF" class="size11 MicrosoftSansSerif11">After browsing around, if you feel that my team and I can be of service to<br>
+         		 you, please call (808) 841-2929 to make an appointment.<br></font></div>
+         		 We are located in Pearl City near Walmart.<br></font></div>
+				</p>
+          	
+          <div class="mastfoot">
+            <div class="inner">
+           
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/docs.min.js"></script>
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

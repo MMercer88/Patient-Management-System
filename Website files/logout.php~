@@ -1,0 +1,4 @@
+<?php
+header('Refresh:5; url=signin.php');
+echo 'You have been logged out!';
+?>
